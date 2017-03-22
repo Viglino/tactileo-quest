@@ -1,4 +1,4 @@
-#Tactileo-quest
+# Tactileo-quest
 
 Tactileo Quest is a proof of concept to demonstrate the abilities of collecting information on a map to use in a serious game.
 [**Tactileo**](http://projet.tactileo.net/) is a french project of the Education Nationale that aims to study and define API for multi touch devices to bring such devices into school context.
@@ -12,12 +12,12 @@ If you’d like to test this out on your own devices, you can now access it onli
 On Android you should better use Chrome and "Add to homescreen" to run the webapp fullscreen.
 On Iphone/IPad, tap the share button. On windows, don't use IExplorer on touch screen!
 
-###Source code
+### Source code
 
 Full source code for this demo application is available on GitHub under the [CeCILL-B licence](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt) (a french BSD like licence). 
 This code is provided as-is. 
 
-###Development Approach
+### Development Approach
 
 This demo game is implemented entirely in HTML5/CSS3 and JavaScript to ensure compatibility with all devices involved in the project. 
 We may use PhoneGap or a Qt webview to encapsulate it in an app.
